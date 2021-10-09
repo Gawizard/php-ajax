@@ -11,7 +11,7 @@
 <body>
     <h1>Click this button to load data!</h1>
     <button id="loader">Click Me</button>
-    <p id="box">fuck</p>
+    <div id="box"></div>
     <script src="scroll-handler.js"></script>
 </body>
 
